@@ -32,13 +32,3 @@ Kaggle : https://www.kaggle.com/taylorkim819/code
 | 👫 Others          | ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat-square&logo=notion&logoColor=white) ![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=flat-square&logo=selenium&logoColor=white)|                                                                                                              |
 </p>
 
-<hr>
-<h3 align="center">🧑‍💻 Contact:</h3>
-
-<div align="center" style="text-align:center">
-  
-  [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=for-the-badge&logo=github&link=https://syshin0116.github.io/)](https://syshin0116.github.io/)
-  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:syshin0116@gmail.com)](mailto:syshin0116@gmail.com)
-  [![KakaoTalk](https://img.shields.io/badge/kakaotalk-ffcd00.svg?style=for-the-badge&logo=kakaotalk&logoColor=000000&link=https://syshin0116.github.io/)](https://syshin0116.github.io/)
-</div>
-
