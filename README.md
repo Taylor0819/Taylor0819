@@ -2,8 +2,6 @@
 
 Please take a look at my Data Analysis and Science portfolio on my Git hub and Kaggle!😁
 
-Kaggle : https://www.kaggle.com/taylorkim819/code
-
 
 <!--- badges from https://github.com/Ileriayo/markdown-badges --->
 <h3 align="center">🤖 Techs:</h3>
